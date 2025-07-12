@@ -3,3 +3,41 @@
     padding: 0;
 }
 
+
+.body {
+    background-color: #f8f9fa;
+}
+
+#perfil {
+    background-color: #006cbd;
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+}
+
+#perfil h1 {
+    font-size: 2.5rem;
+}
+
+.containerUsuario {
+    display: flex;
+    justify-content: center;
+}
+
+.section-title {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.icon {
+    color: #006cbd;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 40px;
+}
