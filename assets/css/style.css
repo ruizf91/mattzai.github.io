@@ -5,6 +5,10 @@
 
 /*index*/
 
+.container {
+    align-items: center;
+}
+
 #perfil {
     background-color: #006cbd;
     color: white;
