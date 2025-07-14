@@ -5,8 +5,16 @@
 
 /*index*/
 
-.container {
-    align-items: center;
+.nombre-navbar {
+    font-size: 1rem;
+    /* fs-6 (~14px) */
+}
+
+@media (min-width: 768px) {
+    .nombre-navbar {
+        font-size: 1.25rem;
+        /* fs-5 (~20px) */
+    }
 }
 
 #perfil {
